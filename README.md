@@ -8,7 +8,7 @@ The only requirement outside of the Python standard library is [PhotoScript](htt
 
 1. Install [Python 3.9](https://www.python.org/downloads/macos/) or higher.
 2. Install PhotoScript: Open Terminal, type `pip3 install photoscript` and press Return.
-3. Download the [latest release](https://github.com/geofftaylor/lightroom-to-photos/releases/download/v1.0/lightroom-to-photos.zip) from this repository and unzip to a folder of your choice.
+3. Download the [latest release](https://github.com/geofftaylor/lightroom-to-photos/releases/latest) from this repository and unzip to a folder of your choice.
 
 ## find-files-and-folders.py
 
